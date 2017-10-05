@@ -10,10 +10,10 @@ global ids
 global totaluid
 global numu
 
-consumer_key = 'jqJ14ABXYg2OMxLeYj34oNjba'
-consumer_secret = '80l4LY3yfwfMhHPdKY9lw7lxOjHNxABX5SwEMHbSNvTG2ECFFj'
-access_token = '3698906844-MKIzH5CiDmnrSNc1roiT1WIELMS9JJWKDhHmPA1'
-access_secret = '9d9gW5onDbQAIo1GscKxFlLjDPC7BruX4oT6RqcY9lvU0'
+consumer_key = '****'
+consumer_secret = '****'
+access_token = '****-****'
+access_secret = '****'
 
 auth = OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(access_token,access_secret)
